@@ -2,7 +2,9 @@
 Transform your desktop into a lovely big sur theme.
 To use this tool, make sure you have git installed. If you don't have it, just type in a terminal (for debian-based distros only):
 sudo apt install git
-Once you have git installed, you need to find a place on your disk to put the files. When you are ready, type:
+Once you have git installed, you need to find a place on your disk to put the files. 
+# Installation and setup
+When you are ready, type:
 git clone https://github.com/singhamitoj/Big-Sur-Desktop-Machine.git
 This will clone all the needed files.
 Next, cd into the folder. After you have done this, you can type:
@@ -15,6 +17,7 @@ This tool will change your:
 - Wingpanel (Pantheon desktop only)
 - Plank (If you have it installed)
 - Window border
+# Additional Configuration
 Even though the script automated the process, there is still some more configuration to do.
 One thing you have to do is change the wallpaper (optional). This differs by distro. You can pick the light or dark wallpaper.
 You need to add a startup script to play the silicon mac startup chime (I used mpg123). Again, this differs by the distro you are using.
