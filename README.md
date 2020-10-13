@@ -23,6 +23,7 @@ One thing you have to do is change the wallpaper (optional). This differs by dis
 You need to add a startup script to play the silicon mac startup chime (I used mpg123). Again, this differs by the distro you are using.
 For users using elementary os, you will need to install the desktop folder app. This will allow you to put files, folders and more on your desktop.
 Lastly, you need to log out and log back in. This will allow the changes to the wingpanel to take effect.
+# Changes
 Now, we will look at how this has changed your desktop.
 First, let us take a look at the cursor. It looks the the macOS cursor, but the behavior has not changed.
 Now, we will look at the icons. You will have a choice of a macOS icon theme and the Papirus icon theme. Some icons will be untouched and will look the same.
