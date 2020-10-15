@@ -8,6 +8,7 @@ When you are ready, type:
 git clone https://github.com/singhamitoj/Big-Sur-Desktop-Machine.git
 This will clone all the needed files.
 Next, cd into the folder. After you have done this, you can type:
+sudo chmod +x theme.sh (Type your password after this: You need admin privileges for this.)
 ./theme.sh
 This will run the script, and you just have to wait for a little bit. It should not take long.
 Things get different after this script is run. Use the tweak tool of your choice (eg. Gnome-tweaks, elementary tweaks, etc.) and choose the themes.
